@@ -11,9 +11,6 @@ body {
 }
 img {
   width: 20%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 .Background{
   margin-left: 5%;
@@ -40,7 +37,20 @@ ol li{
   padding:1%;
   width: 110%
 }
-
 .ihs{
   
+}
+.left-img{
+  float: left;
+  margin-left: 5%;
+  max-height: 80%;
+}
+.center-img{
+  margin-left: 15%;
+}
+.right-img{
+  float: right;
+  margin-right: 5%;
+  height: 80%;
+  width: 20%;
 }
