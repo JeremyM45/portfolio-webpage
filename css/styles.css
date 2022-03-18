@@ -12,8 +12,21 @@ body {
 img {
   width: 20%;
 }
+@keyframes slidin{
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 6%;
+    width: 100%;
+  }
+}
 .Background{
   margin-left: 5%;
+  animation-duration: 2s;
+  animation-name: slidin;
 }
 .Background p{
   width: 600px;
