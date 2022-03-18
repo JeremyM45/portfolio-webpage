@@ -12,7 +12,7 @@ body {
 img {
   width: 20%;
 }
-@keyframes slidin{
+@keyframes slideleft{
   from {
     margin-left: 100%;
     width: 100%;
@@ -26,7 +26,7 @@ img {
 .Background{
   margin-left: 5%;
   animation-duration: 2s;
-  animation-name: slidin;
+  animation-name: slideleft;
 }
 .Background p{
   width: 600px;
@@ -38,7 +38,22 @@ img {
 .Background h4 {
   margin: 2%;
 }
-.projTitle{
+@keyframes slideright{
+  from {
+    margin-left: -100%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.projects{
+  animation-duration: 2s;
+  animation-name: slideright;
+}
+.projects h3{
   position: relative;
   left: 25px;
 }
