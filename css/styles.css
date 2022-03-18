@@ -7,8 +7,8 @@ body {
   font-family: 'Times New Roman', Times, serif;
   margin-bottom: 100px;
 }
-.jumbotron {
-  height: 450px;
+.page-header {
+  height: 350px;
 }
 img {
   width: 20%;
@@ -26,8 +26,4 @@ img {
 }
 .container-fluid{
   width: 100%;
-  /* background-color: rgb(98, 226, 238); */
 }
-/* .row{
-  background-color: antiquewhite;
-} */
