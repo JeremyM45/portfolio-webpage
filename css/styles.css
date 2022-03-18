@@ -15,8 +15,18 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.Background{
+  margin-left: 5%;
+}
 .Background p{
   width: 600px;
+  margin-left: 2%;
+}
+.Background h3 {
+  margin-left: 2%;
+}
+.Background h4 {
+  margin: 2%;
 }
 .projTitle{
   position: relative;
@@ -25,4 +35,12 @@ img {
 .container-fluid{
   width: 100%;
   margin-top: 2%;
+}
+ol li{
+  padding:1%;
+  width: 110%
+}
+
+.ihs{
+  
 }
