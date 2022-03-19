@@ -96,6 +96,8 @@ ol li {
   }
 }
 .scroll {
+  font-family: Papyrus, fantasy;
+  color: brown;
   animation: scroll 10s linear infinite;
 }
  .scroll-container {
