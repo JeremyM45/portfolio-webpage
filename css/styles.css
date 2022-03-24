@@ -1,7 +1,7 @@
 body {
   background-color: rgb(231, 251, 250);
 }
-.header {
+#header {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
