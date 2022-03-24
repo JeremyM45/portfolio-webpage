@@ -28,6 +28,8 @@ _Projects included:_
 * [_portfolio-webpage_](https://github.com/JeremyM45/portfolio-webpage)
 
 ## Setup/Installation Requirements
+_How the webpage should look_ - (https://jeremym45.github.io/portfolio-webpage/)
+
 * Clone repo from GitHub using this link (https://github.com/JeremyM45/portfolio-webpage)
 * Navigate to the Portfolio-Webpage folder
 (Users/Username/Desktop/Portfolio-Webpage)
